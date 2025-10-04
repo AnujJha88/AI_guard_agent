@@ -1,0 +1,23 @@
+[2025-10-04 16:14:13] Guard mode activated
+[2025-10-04 16:14:34] Unknown intruder detected
+[2025-10-04 16:14:48] Maximum escalation reached. Alarm triggered.
+[2025-10-04 16:14:48] Maximum escalation triggered (alarm)
+[2025-10-04 16:14:48] Escalation ended, back to idle
+[2025-10-04 16:15:06] Trusted user detected: shikhar
+[2025-10-04 16:15:17] Trusted user detected: shikhar
+[2025-10-04 16:15:30] Trusted user detected: shikhar
+[2025-10-04 16:16:15] Trusted user detected: shikhar
+[2025-10-04 16:16:26] Trusted user detected: shikhar
+[2025-10-04 16:16:35] Guard mode deactivated by user
+[2025-10-04 17:52:46] Guard mode activated
+[2025-10-04 17:54:23] Unknown intruder detected
+[2025-10-04 17:54:35] Intruder claimed 'friend/roommate'
+[2025-10-04 17:54:35] Escalation finished. Returning to guard mode.
+[2025-10-04 17:54:51] Trusted user detected: shikhar
+[2025-10-04 17:54:59] Trusted user detected: shikhar
+[2025-10-04 17:55:11] Trusted user detected: shikhar
+[2025-10-04 17:55:29] Trusted user detected: shikhar
+[2025-10-04 17:55:41] Trusted user detected: shikhar
+[2025-10-04 17:55:53] Trusted user detected: shikhar
+[2025-10-04 17:56:06] Trusted user detected: shikhar
+[2025-10-04 17:56:15] Guard mode deactivated by user
